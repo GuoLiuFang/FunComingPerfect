@@ -153,6 +153,165 @@
           }
         },
         {
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "<p>“不是我在这瞎说，客服人真的很好，我从未接触过，客服不厌其烦的给我指导，真是让我感动，我自己都做不到这一点，真是谢谢了，朋友们要做项目这家绝对适合你，售后推广都是很给力！顺便提下这里的小额贷款，钱申请下来才要服务费。（保护用户隐私全部虚拟头像）”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face3.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Abanoub S.",
+              "authorBio": "知**zzk[微信]"
+            },
+            {
+              "text": "<p>“Web、Android、iOS一站式，项目开发没得说。新奇的是解决了我推广的问题，快递广告推广，模式新颖，价格公道，针对性强，客服为我量身订制的套餐，非常有效果，日激活和7日留存持续走高，关键是真没有想到效果竟然很好！可能这与他家快递广告拥有读者中心版块有关吧，感觉接纳度很高。肯定会给你介绍更多的客户，好东西要分享嘛！”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face1.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Suffian A.",
+              "authorBio": "校园***[A\u001dll]"
+            },
+            {
+              "text": "<p>“我是恒大北京的销售，盛情难却，不过也是实情，平常我们房地产最重要的地推，包括地铁广告，效果姑且不说，关键是人力成本太贵！如果想覆盖整个北京，成本可想而知。快递广告，价格便宜，效果竟然比人力地推和地铁广告都强，感觉发现了新世界，真不想跟你们说，怕同行跟风，这也是实情。”</p>",
+              "media": {
+                "image": {
+                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true
+                }
+              },
+              "authorName": "Jhollman C.",
+              "authorBio": "恒大韦**[快递推广]"
+            }
+          ],
+          "_anchor": "testimonials1-0",
+          "_params": {
+            "count": 3,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": false,
+            "showImages": true,
+            "showName": true,
+            "showBio": true
+          },
+          "title": "WHAT OUR FANTASTIC USERS SAY",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
+        },
+        {
+          "_name": "gallery1",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "images": [
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/bike-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/bike.jpg",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/code-man-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Creative",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/coworkers-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/desktop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/room-laptop-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Beautiful",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/table-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/table.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Responsive",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/windows-books-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+                "caption": "Type caption here"
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@THEME_PATH@/components/_images/gallery/working-area-small.jpg",
+                "image": "@THEME_PATH@/components/_images/gallery/working-area.jpg",
+                "caption": "Type caption here"
+              }
+            ],
+            "spacing": 0,
+            "showText": false,
+            "filter": false,
+            "bgColor": "#FFFFFF",
+            "filterBgColor": false,
+            "fullWidth": false,
+            "showBullets": true
+          },
+          "_anchor": "gallery1-0",
+          "articleLayout": false
+        },
+        {
           "_name": "contacts1",
           "_anchor": "contacts1-0",
           "_params": {
@@ -198,7 +357,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "© 2015-2016 北京泛莱科技有限公司 , All Rights Reserved. 京ICP备16000099号"
+          "text": "© 2015-2016 泛莱（北京）科技有限公司 , All Rights Reserved. 京ICP备16000099号"
         }
       ]
     },
@@ -341,7 +500,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "© 2015-2016 北京泛莱科技有限公司 , All Rights Reserved. 京ICP备16000099号"
+          "text": "© 2015-2016 泛莱（北京）科技有限公司 , All Rights Reserved. 京ICP备16000099号"
         }
       ]
     },
@@ -484,7 +643,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "© 2015-2016 北京泛莱科技有限公司 , All Rights Reserved. 京ICP备16000099号"
+          "text": "© 2015-2016 泛莱（北京）科技有限公司 , All Rights Reserved. 京ICP备16000099号"
         }
       ]
     },
@@ -627,7 +786,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "© 2015-2016 北京泛莱科技有限公司 , All Rights Reserved. 京ICP备16000099号"
+          "text": "© 2015-2016 泛莱（北京）科技有限公司 , All Rights Reserved. 京ICP备16000099号"
         }
       ]
     }
