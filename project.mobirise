@@ -144,7 +144,7 @@
             "showButtons": true
           },
           "title": "快递广告推广<br>项目制作开发",
-          "text": "我们提供一站式解决方案，从申请小额贷款，到 Web、iOS、Android 项目制作开发，再到快递广告渠道推广 。",
+          "text": "我们提供一站式解决方案，从申请<a href=\"xiaoedaikuan.html\" class=\"text-warning\">小额贷款</a>，到 Web、iOS、Android <a href=\"xiangmukaifa.html\" class=\"text-warning\">项目开发</a>制作，再到<a href=\"kuaidiguanggao.html\" class=\"text-warning\">快递广告</a>渠道推广 。",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"kuaidiguanggao.html\" data-toolbar=\"-mbrBtnMove\">快递广告</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"xiangmukaifa.html\" data-toolbar=\"-mbrBtnMove\">项目开发</a>",
           "_styles": {
             ".mbr-section-title": {
