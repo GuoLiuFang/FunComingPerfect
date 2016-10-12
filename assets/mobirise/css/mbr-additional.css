@@ -533,6 +533,9 @@ h6,
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#slider-0 P {
+  color: #3d8eb9;
+}
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
