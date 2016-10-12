@@ -456,6 +456,11 @@
         },
         {
           "_name": "slider",
+          "_styles": {
+            "P": {
+              "color": "#3d8eb9"
+            }
+          },
           "_params": {
             "autoplay": true,
             "paddingTop": 3,
@@ -478,7 +483,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@PROJECT_PATH@/assets/images/-2000x970-41.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -492,17 +497,18 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
-                "active": false,
-                "image": "@THEME_PATH@/components/_images/slider/sparklers.jpg",
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/4-01-2000x1125-57.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "overlay": true,
+                "overlayColor": "#553982",
                 "contentAlign": "right",
-                "showTitle": true,
+                "showTitle": false,
                 "title": "IMAGE SLIDE",
-                "showText": true,
+                "showText": false,
                 "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-                "showButtons": true,
+                "showButtons": false,
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-info\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">FOR MAC</a>"
               }
             ],
@@ -511,12 +517,7 @@
             "showBullets": true
           },
           "_anchor": "slider-0",
-          "articleLayout": false,
-          "_styles": {
-            "P": {
-              "color": "#3d8eb9"
-            }
-          }
+          "articleLayout": false
         },
         {
           "_name": "contacts1",
