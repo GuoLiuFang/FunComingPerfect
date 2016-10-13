@@ -601,6 +601,23 @@ h6,
 #content5-0 p {
   color: #fff;
 }
+#pricing-table2-0 .mbr-plan-header,
+#pricing-table2-0 .mbr-plan-body {
+  background-color: #f4f4f4;
+}
+#pricing-table2-0 ul,
+#pricing-table2-0 .mbr-plan-title,
+#pricing-table2-0 .mbr-price-value,
+#pricing-table2-0 .mbr-price-figure,
+#pricing-table2-0 .mbr-price-term {
+  color: #28262b;
+}
+#pricing-table2-0 .mbr-plan {
+  border-color: #e8e8e8;
+}
+#pricing-table2-0 .mbr-plan .list-group-item {
+  border-color: #cfcfcf;
+}
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -661,4 +678,11 @@ h6,
 #ext_menu-0 .link[aria-expanded="true"],
 #ext_menu-0 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#msg-box8-0 .mbr-section-title,
+#msg-box8-0 p {
+  color: #fff;
+}
+#msg-box8-0 .btn {
+  font-size: 12px;
 }

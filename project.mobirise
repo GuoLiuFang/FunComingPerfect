@@ -1111,6 +1111,40 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kuaidiguanggao.html\">快递广告</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"xiangmukaifa.html\">项目开发</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"xiaoedaikuan.html\">小额贷款</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".btn": {
+              "font-size": "12px"
+            }
+          },
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-0",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 3,
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": true
+          },
+          "title": "申请小额贷款请直接联系客服",
+          "text": "<p><a href=\"http://www.funcoming.com/\">联系客服</a></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"http://www.funcoming.com/\" data-toolbar=\"-mbrBtnMove\">联系客服</a>"
+        },
+        {
           "_name": "contacts1",
           "_anchor": "contacts1-0",
           "_params": {
