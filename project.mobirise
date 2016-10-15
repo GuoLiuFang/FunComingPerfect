@@ -119,7 +119,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kuaidiguanggao.html\">快递广告</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"xiangmukaifa.html\">项目开发</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"xiaoedaikuan.html\">小额贷款</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kuaidiguanggao.html\">快递广告</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"xiangmukaifa.html\">项目开发</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"xiaoedaikuan.html\">小额贷款</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://shop150707329.taobao.com\" target=\"_blank\">BUY</a></li>"
         },
         {
           "_name": "header1",
@@ -452,7 +452,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kuaidiguanggao.html\">快递广告</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"xiangmukaifa.html\">项目开发</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"xiaoedaikuan.html\">小额贷款</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kuaidiguanggao.html\">快递广告</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"xiangmukaifa.html\">项目开发</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"xiaoedaikuan.html\">小额贷款</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://shop150707329.taobao.com\" target=\"_blank\">BUY</a></li>"
         },
         {
           "_name": "slider",
@@ -758,7 +758,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kuaidiguanggao.html\">快递广告</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"xiangmukaifa.html\">项目开发</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"xiaoedaikuan.html\">小额贷款</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kuaidiguanggao.html\">快递广告</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"xiangmukaifa.html\">项目开发</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"xiaoedaikuan.html\">小额贷款</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://shop150707329.taobao.com\" target=\"_blank\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -938,7 +938,7 @@
           "period1": "mo.",
           "description1": "More details",
           "list1": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Web：￥８.９万／３.５月</li><li class=\"list-group-item\">iOS：￥１１.５万／３.５月</li><li class=\"list-group-item\">Android:￥９.４万／３.５月</li></ul>",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">BUY</a>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://shop150707329.taobao.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BUY</a>",
           "label2": "HOT!",
           "title2": "即时通信社交类(微信)",
           "subtitle2": "",
@@ -947,7 +947,7 @@
           "period2": "mo.",
           "description2": "More details",
           "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Web：￥９.２万／３.５月</li><li class=\"list-group-item\">iOS：￥１２.９万／３.５月</li><li class=\"list-group-item\">Android:￥１０万／３.５月</li></ul>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">BUY</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://shop150707329.taobao.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BUY</a>",
           "label3": "HOT!",
           "title3": "电商类(唯品汇)",
           "subtitle3": "",
@@ -956,7 +956,7 @@
           "period3": "mo.",
           "description3": "More details",
           "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Web：￥８.４万／２月</li><li class=\"list-group-item\">iOS：￥９.０万／２月</li><li class=\"list-group-item\">Android：￥８.４万／２月</li></ul>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">BUY</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://shop150707329.taobao.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BUY</a>",
           "label4": "HOT!",
           "title4": "资讯类(网易新闻)",
           "subtitle4": "",
@@ -965,7 +965,7 @@
           "period4": "mo.",
           "description4": "More details",
           "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">Web：￥８.４万／３.５月</li><li class=\"list-group-item\">iOS：￥９.８万／３.５月</li><li class=\"list-group-item\">Android:￥８.８万／３.５月</li></ul>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\">BUY</a>"
+          "button4": "<a data-app-btn=\"true\" href=\"https://shop150707329.taobao.com\" class=\"btn btn-black btn-black-outline\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">BUY</a>"
         },
         {
           "_name": "contacts1",
@@ -1108,7 +1108,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kuaidiguanggao.html\">快递广告</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"xiangmukaifa.html\">项目开发</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"xiaoedaikuan.html\">小额贷款</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"kuaidiguanggao.html\">快递广告</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"xiangmukaifa.html\">项目开发</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"xiaoedaikuan.html\">小额贷款</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://shop150707329.taobao.com\" target=\"_blank\">BUY</a></li>"
         },
         {
           "_styles": {
@@ -1142,7 +1142,7 @@
           },
           "title": "申请小额贷款请直接联系客服",
           "text": "<p><a href=\"http://www.funcoming.com/\">联系客服</a></p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"http://www.funcoming.com/\" data-toolbar=\"-mbrBtnMove\">联系客服</a>"
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://shop150707329.taobao.com\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">联系客服</a>"
         },
         {
           "_name": "contacts1",
